@@ -38,7 +38,7 @@ app.get("/add", (req, res) => {
     res.render("add")
 });
 
-app.post("/photosssss", async (req, res) => {
+app.post("/photos", async (req, res) => {
     await Photo.create(req.body)
     res.redirect('/')
 });
