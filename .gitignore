@@ -47,6 +47,8 @@ node_modules/
 jspm_packages/
 temp/
 views/
+test.js
+
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
