@@ -46,7 +46,6 @@ build/Release
 node_modules/
 jspm_packages/
 temp/
-views/
 test.js
 
 
